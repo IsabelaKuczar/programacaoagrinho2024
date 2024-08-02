@@ -1,1 +1,0 @@
-# programacaoagrinho2024
