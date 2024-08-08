@@ -38,7 +38,7 @@
 
 .nossa-escola {
     background-image: linear-gradient(#e8facf, #e8facf);
-    color: white;
+    color: #000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -70,7 +70,7 @@
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: #e8facf;
     color: white;
 }
 
@@ -97,8 +97,8 @@
 }
 
 .rodapé{
-    background-color: #300301;
-    color: #960903;
+    background-color: #879c75;
+    color: #000;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
